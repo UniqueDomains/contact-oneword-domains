@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CONTACT one-word domains still available to buy.
 
-This dataset contains 4,167 .CONTACT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,197 .CONTACT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CONTACT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contact-oneword-domains&utm_content=description.top) (3,885) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.CONTACT one word doma
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contact-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.csv"><b>⬇️ CSV (4.17K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.json"><b>⬇️ JSON (4.17K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.csv"><b>⬇️ CSV (4.2K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.json"><b>⬇️ JSON (4.2K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contact-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.89K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -43,6 +43,7 @@ If you want to search & filters the complete database of [.CONTACT one word doma
 | abhorrent.contact  | available | 54       | 1%     | 9      |           |         |         |
 | abiding.contact    | available | 106      | 5%     | 7      |           |         |         |
 | abient.contact     | available | 54       | 1%     | 6      |           |         |         |
+| ability.contact    | available | 92       | 18%    | 7      |           |         |         |
 | abit.contact       | available | 66       | 16%    | 5      |           |         |         |
 | abject.contact     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.contact     | available | 68       | 1%     | 6      |           |         |         |
@@ -50,12 +51,11 @@ If you want to search & filters the complete database of [.CONTACT one word doma
 | abkhaz.contact     | available | 82       | 2%     | 6      |           |         |         |
 | abkhazian.contact  | available | 78       | 1%     | 9      |           |         |         |
 | ablated.contact    | available | 52       | 2%     | 7      |           |         |         |
-| ablative.contact   | available | 68       | 3%     | 8      |           |         |         |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/contact-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.csv"><b>⬇️ CSV (4.17K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.json"><b>⬇️ JSON (4.17K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.csv"><b>⬇️ CSV (4.2K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/contact-oneword-domains/blob/main/contact.json"><b>⬇️ JSON (4.2K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=contact-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (3.89K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
