@@ -1,10 +1,10 @@
-# Available .CONTACT One-Word Domains (8,984)
+# Available .CONTACT One-Word Domains (8,982)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C981%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C984%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C982%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .contact one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 8,981-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,984 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,982 domains** on the canonical page below.
 
-**Public extract:** 8,981 rows · **Live catalog:** 8,984 domains
+**Public extract:** 8,981 rows · **Live catalog:** 8,982 domains
 
 **Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/contact`  
@@ -66,7 +66,7 @@ print(df.head())
 | -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | and.contact    | available | $16.78     | —             | 84             | 48     | 3      | namecheap         |
 | block.contact  | resell    | $16.78     | —             | 68             | 37     | 5      | Porkbun LLC       |
-| zero.contact   | premium   | $1,250     | $1,250        | 112            | 54     | 4      | name.com          |
+| zero.contact   | premium   | $1,250     | $1,250        | 112            | 53     | 4      | name.com          |
 | paul.contact   | available | $16.78     | —             | 70             | 45     | 4      | namecheap         |
 | better.contact | resell    | —          | —             | 110            | 99     | 6      | Porkbun LLC       |
 | one.contact    | premium   | $1,250     | $1,250        | 132            | 50     | 3      | name.com          |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,981-row public sample | 8,984 live domains                               |
+| 8,981-row public sample | 8,982 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
