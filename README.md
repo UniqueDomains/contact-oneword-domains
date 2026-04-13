@@ -79,10 +79,10 @@ print(df.head())
 | water.contact  | available | $16.99     | —             | 92             | 42     | 5      | name.com          |
 | live.contact   | resell    | —          | —             | 108            | 56     | 4      | Sav.com, LLC - 40 |
 | rose.contact   | premium   | $573.85    | $20.99        | 90             | 42     | 4      | name.com          |
-| agile.contact  | available | $16.78     | —             | 92             | 41     | 5      | namecheap         |
+| craft.contact  | available | $16.78     | —             | 70             | 42     | 5      | namecheap         |
 | future.contact | resell    | —          | —             | 94             | 55     | 6      | Porkbun LLC       |
 | score.contact  | premium   | $573.85    | $20.99        | 120            | 35     | 5      | name.com          |
-| craft.contact  | available | $16.78     | —             | 70             | 41     | 5      | namecheap         |
+| agile.contact  | available | $16.78     | —             | 92             | 41     | 5      | namecheap         |
 | good.contact   | resell    | —          | —             | 82             | 55     | 4      | Spaceship, Inc.   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
