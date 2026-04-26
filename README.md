@@ -1,22 +1,22 @@
-# Available .CONTACT One-Word Domains (8,981)
+# Available .CONTACT One-Word Domains (11,294)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C981%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C981%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C294%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .contact one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .contact one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,294 domains** on the canonical page below.
 
-**Public extract:** 8,981 rows · **Live catalog:** 8,981 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,294 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/contact`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CONTACT one-word doma
 
 ### Files
 
-- `contact.csv` — public CSV extract (8,981 rows)
-- `contact.json` — public JSON extract (8,981 rows)
+- `contact.csv` — public CSV extract (1,000 rows)
+- `contact.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar         |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| and.contact    | available | $16.78     | —             | 84             | 48     | 3      | namecheap         |
-| block.contact  | resell    | $16.78     | —             | 68             | 37     | 5      | Porkbun LLC       |
-| zero.contact   | premium   | $1,250     | $1,250        | 112            | 53     | 4      | name.com          |
-| paul.contact   | available | $16.78     | —             | 70             | 45     | 4      | namecheap         |
-| better.contact | resell    | —          | —             | 110            | 99     | 6      | Porkbun LLC       |
-| one.contact    | premium   | $1,250     | $1,250        | 132            | 50     | 3      | name.com          |
-| mix.contact    | available | $16.78     | —             | 66             | 45     | 3      | namecheap         |
-| morgan.contact | resell    | —          | —             | 64             | 82     | 6      | Porkbun LLC       |
-| find.contact   | premium   | $26,044.79 | —             | 88             | 50     | 4      | Dynadot Inc       |
-| track.contact  | available | $16.78     | —             | 94             | 42     | 5      | namecheap         |
-| web.contact    | resell    | —          | —             | 72             | 61     | 3      | Dynadot Inc       |
-| shift.contact  | premium   | $573.85    | $20.99        | 70             | 46     | 5      | name.com          |
-| water.contact  | available | $16.99     | —             | 92             | 42     | 5      | name.com          |
-| live.contact   | resell    | —          | —             | 108            | 56     | 4      | Sav.com, LLC - 40 |
-| rose.contact   | premium   | $573.85    | $20.99        | 90             | 42     | 4      | name.com          |
-| craft.contact  | available | $16.78     | —             | 70             | 42     | 5      | namecheap         |
-| future.contact | resell    | —          | —             | 94             | 55     | 6      | Porkbun LLC       |
-| score.contact  | premium   | $573.85    | $20.99        | 120            | 35     | 5      | name.com          |
-| agile.contact  | available | $16.78     | —             | 92             | 41     | 5      | namecheap         |
-| good.contact   | resell    | —          | —             | 82             | 55     | 4      | Spaceship, Inc.   |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| skills.contact       | available | $16.78    | —             | 58             | 47     | 6      | namecheap        |
+| robots.contact       | resell    | —         | —             | 62             | 47     | 6      | GoDaddy.com, LLC |
+| online.contact       | premium   | $1,250    | —             | 70             | 62     | 7      | name.com         |
+| whynot.contact       | available | $16.78    | —             | 74             | 39     | 7      | namecheap        |
+| Ryan.contact         | resell    | —         | —             | 60             | 44     | 4      | Porkbun LLC      |
+| dave.contact         | available | $16.78    | —             | 76             | 38     | 4      | namecheap        |
+| William.contact      | resell    | —         | —             | 74             | 31     | 7      | Porkbun LLC      |
+| stories.contact      | available | $16.78    | —             | 58             | 36     | 7      | namecheap        |
+| SanDiego.contact     | resell    | —         | —             | 74             | 29     | 9      | Porkbun LLC      |
+| tokens.contact       | available | $14.99    | $14.99        | 51             | 36     | 6      | namesilo         |
+| girls.contact        | resell    | —         | —             | 83             | 23     | 5      | Sav.com, LLC     |
+| Stars.contact        | available | $16.78    | —             | 79             | 31     | 5      | namecheap        |
+| inspiration.contact  | available | $16.78    | —             | 88             | 30     | 11     | namecheap        |
+| popup.contact        | available | $16.78    | —             | 84             | 29     | 6      | namecheap        |
+| heroes.contact       | available | $16.78    | —             | 68             | 29     | 6      | namecheap        |
+| commonground.contact | available | $16.78    | —             | 74             | 28     | 13     | namecheap        |
+| KFC.contact          | available | $16.78    | —             | 74             | 27     | 3      | namecheap        |
+| gods.contact         | available | $16.78    | —             | 72             | 27     | 4      | namecheap        |
+| trades.contact       | available | $14.99    | $14.99        | 71             | 26     | 6      | namesilo         |
+| sites.contact        | available | $16.78    | —             | 53             | 26     | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,981-row public sample | 8,981 live domains                               |
+| 1,000-row public sample | 11,294 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
