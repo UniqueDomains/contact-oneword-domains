@@ -77,13 +77,13 @@ print(df.head())
 | online.contact   | premium   | $1,250    | —             | 70             | 62     | 7      | name.com         |
 | dave.contact     | available | $16.78    | —             | 76             | 38     | 4      | namecheap        |
 | Ryan.contact     | resell    | —         | —             | 60             | 44     | 4      | Porkbun LLC      |
+| enrich.contact   | premium   | —         | —             | 80             | 17     | 6      | —                |
 | stories.contact  | available | $16.78    | —             | 58             | 36     | 7      | namecheap        |
 | William.contact  | resell    | —         | —             | 74             | 31     | 7      | Porkbun LLC      |
 | tokens.contact   | available | $14.99    | $14.99        | 51             | 36     | 6      | namesilo         |
 | SanDiego.contact | resell    | —         | —             | 74             | 29     | 9      | Porkbun LLC      |
 | slots.contact    | available | $14.99    | $14.99        | 49             | 31     | 5      | namesilo         |
 | girls.contact    | resell    | —         | —             | 83             | 23     | 5      | Sav.com, LLC     |
-| rewards.contact  | available | $14.99    | $14.99        | 62             | 30     | 7      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

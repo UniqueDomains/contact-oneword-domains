@@ -7,6 +7,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 00730115-5c84-407b-895a-83382e5462a8,filings.contact,available,16.78,,48,8,7,namecheap,,
 0097696e-65ef-4e68-b591-9f89a5c233d3,CountyofKings.contact,available,16.78,,54,2,15,namecheap,,
 009eca26-0a13-4411-92b4-cb95094419a1,cometopower.contact,available,16.78,,66,1,13,namecheap,,
+00a408b7-6f93-4e31-9857-ecb2e3524be0,enrich.contact,premium,,,80,17,6,,,
 00aa2b67-f07a-4a9b-8be1-58a10f230e87,menus.contact,available,14.99,14.99,54,14,5,namesilo,,
 00cfc58e-2da3-4ec1-929d-3a1f61d49ec3,styling.contact,available,16.78,,78,11,7,namecheap,,
 0116656b-2413-4d24-9dcd-ba51a4272a70,pastasauce.contact,available,16.78,,79,2,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a93b318-bf56-4e19-95a0-30c322c2d952,excitements.contact,available,14.99,14.99,50,1,11,namesilo,,
 5a9f3040-67a9-4596-8aea-c3dce8dd5b0e,favors.contact,available,16.78,,76,8,6,namecheap,,
 5aa77e40-f671-418e-9244-fa99742c6cfc,goonvacation.contact,available,16.78,,48,1,14,namecheap,,
-5aa9a2b6-42d3-4991-8611-3e011d961033,goonholiday.contact,available,16.78,,68,1,13,namecheap,,
