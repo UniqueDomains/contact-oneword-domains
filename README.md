@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .contact one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,913 domains · **Median ask:** $25.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/contact`  
 **Best for:** founders, investors, studios
 
@@ -68,12 +68,12 @@ print(df.head())
 | enrich.contact   | premium   | —         | —             | 80             | 17     | 6      | —                |
 | jewels.contact   | available | $16.78    | —             | 80             | 15     | 6      | namecheap        |
 | ladies.contact   | available | $16.78    | —             | 80             | 17     | 6      | namecheap        |
-| popup.contact    | available | $16.78    | —             | 84             | 29     | 6      | namecheap        |
+| popup.contact    | available | $16.78    | —             | 84             | 28     | 6      | namecheap        |
 | dogsit.contact   | available | $16.78    | —             | 96             | 2      | 6      | namecheap        |
 | edamame.contact  | available | $14.99    | $14.99        | 80             | 9      | 7      | namesilo         |
 | QandA.contact    | available | $16.78    | —             | 80             | 10     | 7      | namecheap        |
-| makeit.contact   | available | $16.78    | —             | 82             | 22     | 7      | namecheap        |
-| whynot.contact   | available | $16.78    | —             | 74             | 39     | 7      | namecheap        |
+| makeit.contact   | available | $16.78    | —             | 82             | 21     | 7      | namecheap        |
+| whynot.contact   | available | $16.78    | —             | 74             | 44     | 7      | namecheap        |
 | robots.contact   | resell    | —         | —             | 62             | 47     | 6      | GoDaddy.com, LLC |
 | online.contact   | premium   | $1,250    | —             | 70             | 62     | 7      | name.com         |
 | dave.contact     | available | $16.78    | —             | 76             | 38     | 4      | namecheap        |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
