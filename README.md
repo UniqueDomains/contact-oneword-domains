@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .contact one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,913 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,913 domains · **Median ask:** $25.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,913 domains · **Median ask:** $33.78 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/contact`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/contact`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CONTACT one-word doma
 
 ### Files
 
-- `contact.csv` — public CSV extract (1,000 rows)
-- `contact.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `contact.csv`, public CSV extract (1,000 rows)
+- `contact.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.contact     | available | $16.78    | —             | 80             | 5      | 5      | namecheap        |
-| enrich.contact   | premium   | —         | —             | 80             | 17     | 6      | —                |
-| jewels.contact   | available | $16.78    | —             | 80             | 15     | 6      | namecheap        |
-| ladies.contact   | available | $16.78    | —             | 80             | 17     | 6      | namecheap        |
-| popup.contact    | available | $16.78    | —             | 84             | 28     | 6      | namecheap        |
-| dogsit.contact   | available | $16.78    | —             | 96             | 2      | 6      | namecheap        |
-| edamame.contact  | available | $14.99    | $14.99        | 80             | 9      | 7      | namesilo         |
-| QandA.contact    | available | $16.78    | —             | 80             | 10     | 7      | namecheap        |
-| makeit.contact   | available | $16.78    | —             | 82             | 21     | 7      | namecheap        |
-| whynot.contact   | available | $16.78    | —             | 74             | 44     | 7      | namecheap        |
-| robots.contact   | resell    | —         | —             | 62             | 47     | 6      | GoDaddy.com, LLC |
-| online.contact   | premium   | $1,250    | —             | 70             | 62     | 7      | name.com         |
-| dave.contact     | available | $16.78    | —             | 76             | 38     | 4      | namecheap        |
-| Ryan.contact     | resell    | —         | —             | 60             | 44     | 4      | Porkbun LLC      |
-| stories.contact  | available | $16.78    | —             | 58             | 36     | 7      | namecheap        |
-| William.contact  | resell    | —         | —             | 74             | 31     | 7      | Porkbun LLC      |
-| tokens.contact   | available | $14.99    | $14.99        | 51             | 36     | 6      | namesilo         |
-| SanDiego.contact | resell    | —         | —             | 74             | 29     | 9      | Porkbun LLC      |
-| slots.contact    | available | $14.99    | $14.99        | 49             | 31     | 5      | namesilo         |
-| girls.contact    | resell    | —         | —             | 83             | 23     | 5      | Sav.com, LLC     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------- |
+| okay.contact     | available | $14.99    | $14.99        | high           | low    | 4      | namesilo                  |
+| beauty.contact   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC               |
+| nothing.contact  | available | $14.99    | $14.99        | high           | low    | 7      | namesilo                  |
+| ale.contact      | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo                  |
+| friend.contact   | resell    | $6,129.79 | —             | high           | low    | 6      | Dynadot Inc               |
+| giant.contact    | premium   | $16.78    | —             | high           | low    | 5      | namecheap                 |
+| and.contact      | available | $14.99    | $14.99        | high           | medium | 3      | namesilo                  |
+| Ann.contact      | resell    | —         | —             | high           | low    | 3      | Porkbun LLC               |
+| advance.contact  | premium   | $14.99    | $14.99        | high           | low    | 7      | namesilo                  |
+| cot.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                  |
+| auto.contact     | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc               |
+| wireless.contact | premium   | $14.99    | $14.99        | high           | low    | 8      | namesilo                  |
+| dew.contact      | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo                  |
+| best.contact     | resell    | —         | —             | high           | medium | 4      | Go Australia Domains, LLC |
+| don.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                  |
+| date.contact     | resell    | —         | —             | high           | low    | 4      | Entorno Digital, S.A.     |
+| dry.contact      | available | $16.78    | —             | high           | low    | 3      | namecheap                 |
+| black.contact    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC               |
+| how.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                  |
+| green.contact    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is narrowly focused: one-word domains on the .contact extension. The names range from plain keywords like tips.contact and finals.contact to more brand-leaning options like Trex.contact and geton.contact. For founders, the main question is whether the word stays clear and credible when paired with .contact. For investors, the key issue is resale depth in a niche extension versus a low median ask of 25.45. When comparing these domains, weigh memorability, spelling ease, commercial intent of the word, and whether the exact pairing feels natural for outreach, directories, support, or lead capture use cases.
+This set includes 11,913 one-word .contact domain names, spanning everyday English words such as half.contact, out.contact, just.contact, and matcha.contact. Median ask sits near $34, making most of these names accessible without a large upfront cost. The .contact extension pairs naturally with communication-first use cases — support pages, contact forms, and outreach-driven brands — while single-word names keep each domain short and easy to recall. Because this inventory spans common verbs, adjectives, and nouns, pricing and appeal can vary widely from name to name.
 
-- One-word .contact domains only
-- Median ask across this set: 25.45
-- Check if the word fits a contact-led use
-- Prefer clean spelling and clear meaning
+- 11,913 one-word .contact domain names, updated daily
+- Median ask near $34 across this .contact selection
+- Everyday words like half, feel, just, and matcha
+- Short, single-word format built for contact-focused brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
