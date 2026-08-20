@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .contact one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,777 domains · **Median ask:** $25.32 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/contact`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,9 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| okay.contact     | available | $14.99    | $14.99        | high           | low    | 4      | namesilo                                                  |
+| beauty.contact   | resell    | —         | —             | high           | low    | 6      | Porkbun LLC                                               |
+| nothing.contact  | available | $14.99    | $14.99        | high           | low    | 7      | namesilo                                                  |
 | ale.contact      | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo                                                  |
 | friend.contact   | resell    | $6,129.79 | —             | high           | low    | 6      | Dynadot Inc                                               |
 | giant.contact    | premium   | $16.78    | —             | high           | low    | 5      | namecheap                                                 |
@@ -81,9 +84,6 @@ print(df.head())
 | date.contact     | resell    | —         | —             | high           | low    | 4      | Entorno Digital, S.A.                                     |
 | dry.contact      | available | $16.78    | —             | high           | low    | 3      | namecheap                                                 |
 | black.contact    | resell    | —         | —             | high           | medium | 5      | Porkbun LLC                                               |
-| how.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
-| green.contact    | resell    | —         | —             | medium         | medium | 5      | Porkbun LLC                                               |
-| hum.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
