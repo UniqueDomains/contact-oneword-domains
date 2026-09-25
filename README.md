@@ -1,10 +1,10 @@
-# Available .CONTACT One-Word Domains (30,731)
+# Available .CONTACT One-Word Domains (31,724)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C731%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C724%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .contact one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **30,731 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,724 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 30,731 domains · **Median ask:** $20.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 31,724 domains · **Median ask:** $20.05 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/contact`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| ale.contact      | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo                                                  |
-| friend.contact   | resell    | $6,129.79 | —             | high           | low    | 6      | Dynadot Inc                                               |
-| giant.contact    | premium   | $16.78    | —             | high           | low    | 5      | namecheap                                                 |
-| and.contact      | available | $14.99    | $14.99        | high           | medium | 3      | namesilo                                                  |
-| ann.contact      | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                                               |
-| wireless.contact | premium   | $14.99    | $14.99        | high           | low    | 8      | namesilo                                                  |
-| ass.contact      | available | $13.98    | $16.78        | low            | low    | 3      | namecheap                                                 |
-| buy.contact      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| cot.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
-| auto.contact     | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc                                               |
-| dew.contact      | available | $14.99    | $14.99        | medium         | low    | 3      | namesilo                                                  |
-| code.contact     | resell    | —         | —             | low            | low    | 4      | GoDaddy.com, LLC                                          |
-| don.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
-| date.contact     | resell    | —         | —             | high           | low    | 4      | Entorno Digital, S.A.                                     |
-| dry.contact      | available | $16.78    | —             | high           | low    | 3      | namecheap                                                 |
-| drop.contact     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                               |
-| how.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
-| gold.contact     | resell    | —         | —             | low            | low    | 4      | —                                                         |
-| hum.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo                                                  |
-| black.contact    | resell    | —         | —             | medium         | low    | 5      | Porkbun LLC                                               |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| ale.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo              |
+| friend.contact   | resell    | $6,129.79 | —             | high           | low    | 6      | Dynadot Inc           |
+| wireless.contact | premium   | $14.99    | $14.99        | high           | low    | 8      | namesilo              |
+| and.contact      | available | $14.99    | $14.99        | high           | medium | 3      | namesilo              |
+| ann.contact      | resell    | —         | —             | high           | low    | 3      | Porkbun LLC           |
+| ane.contact      | available | $13.98    | $16.78        | high           | low    | 3      | namecheap             |
+| auto.contact     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc           |
+| are.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo              |
+| club.contact     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| ass.contact      | available | $13.98    | $16.78        | high           | low    | 3      | namecheap             |
+| cook.contact     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| ate.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo              |
+| date.contact     | resell    | —         | —             | high           | low    | 4      | Entorno Digital, S.A. |
+| bjp.contact      | available | $16.78    | —             | high           | low    | 3      | namecheap             |
+| hill.contact     | resell    | —         | —             | high           | low    | 4      | Porkbun LLC           |
+| clx.contact      | available | $13.98    | $16.78        | high           | low    | 3      | namecheap             |
+| real.contact     | resell    | —         | —             | high           | medium | 4      | Porkbun LLC           |
+| con.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo              |
+| roger.contact    | resell    | —         | —             | high           | low    | 5      | Porkbun LLC           |
+| cot.contact      | available | $14.99    | $14.99        | high           | low    | 3      | namesilo              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 30,731 live domains                        |
+| 1,000-row public sample | 31,724 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CONTACT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
